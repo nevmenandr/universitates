@@ -10,6 +10,8 @@ layout: default
 
 Название подкаста отсылает к самому престижному университетскому объединению в мире, но здесь мы будем говорить обо всех университетах — передовых и провинциальных, древних и новых, каменных и кирпичных, потому что нас интересует университет вообще, университет как явление. Это место, в котором рождается новое знание, говорят о науке. Где живут люди — такие непохожие, но все они вместе — университет.
 
+Борис Орехов
+
 [Об авторе подкаста](https://nevmenandr.github.io/).
 
 * * *
@@ -36,7 +38,7 @@ layout: default
 ## Тексты
 
 - [Рустем Вахитов Судьбы университета в России, 2014](https://khamovniky.ru/wp-content/uploads/09c3df0da6391b5f1349607afb315d30.pdf)
-  - [Борис Орехов Рец. на кн. Р. Вахитова](http://nevmenandr.net/personalia/2809-6297-1-SM.pdf)
+  - [Борис Орехов Рец. на кн. Р. Вахитова](./review.pdf)
 
 * * *
 
@@ -161,6 +163,4 @@ end
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
 
-```
-The final element.
-```
+[Борис Орехов](https://nevmenandr.github.io/)
