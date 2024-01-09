@@ -12,7 +12,7 @@ layout: default
 
 Борис Орехов
 
-[Об авторе подкаста](https://nevmenandr.github.io/).
+[Об авторе подкаста](https://nevmenandr.github.io/)
 
 * * *
 
