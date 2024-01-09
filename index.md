@@ -16,7 +16,7 @@ layout: default
 
 ## Выпуски
 
-| Выпуск       | Собеседник, расшифровка   | Дата   |
+| Выпуск       | Собеседник, транскрипт    | Дата   |
 |:-------------|:--------------------------|:-------|
 | Трейлер      | —                         | [01.2024](https://universitates.mave.digital) |
 | 01           | [NA](./another-page.html) | [01.2024](https://universitates.mave.digital) |
@@ -34,7 +34,7 @@ layout: default
 *   YouTube
 *   Звук
 
-## Тексты
+## Тексты про университет
 
 - [Рустем Вахитов Судьбы университета в России, 2014](https://khamovniky.ru/wp-content/uploads/09c3df0da6391b5f1349607afb315d30.pdf)
   - [Борис Орехов Рец. на кн. Р. Вахитова](./review.pdf)
