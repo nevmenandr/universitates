@@ -24,6 +24,21 @@ layout: default
 | 03           | NA                | [02.2024](https://universitates.mave.digital) |
 | 04           | NA                | [02.2024](https://universitates.mave.digital) |
 
+> Университет это организм
+
+## Где можно послушать подкаст
+
+*   Яндекс.Музыка
+*   Apple Podcasts
+*   YouTube
+*   Звук
+
+## Тексты
+
+- [Рустем Вахитов Судьбы университета в России, 2014](https://khamovniky.ru/wp-content/uploads/09c3df0da6391b5f1349607afb315d30.pdf)
+  - [Борис Орехов Рец. на кн. Р. Вахитова](http://nevmenandr.net/personalia/2809-6297-1-SM.pdf)
+
+* * *
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
