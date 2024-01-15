@@ -48,5 +48,3 @@ layout: default
 
 
 
-
-[Борис Орехов](https://nevmenandr.github.io/)
