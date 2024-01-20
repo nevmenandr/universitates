@@ -15,9 +15,14 @@ layout: default
 <dd>20.04.2024</dd>
 </dl>
 
+### Обложка
+
+![Octocat](./aiv.png)
 
 ## Welcome to another page
 
 _yay_
 
 [back](./)
+
+
