@@ -18,8 +18,8 @@ layout: default
 
 | Выпуск       | Собеседник, транскрипт    | Дата   |
 |:-------------|:--------------------------|:-------|
-| Трейлер      | —                         | [01.2024](https://universitates.mave.digital) |
-| 01           | [NA](./another-page.html) | [01.2024](https://universitates.mave.digital) |
+| Трейлер      | —                         | [01.02.2024]((https://universitates.mave.digital/ep-1) |
+| 01           | [Наталия Слюсарь](./ep-01.html) | [08.02.2024](https://universitates.mave.digital/ep-2) |
 | 02           | NA                        | [01.2024](https://universitates.mave.digital) |
 | 03           | NA                        | [02.2024](https://universitates.mave.digital) |
 | 04           | NA                        | [02.2024](https://universitates.mave.digital) |
