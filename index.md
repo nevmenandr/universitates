@@ -30,7 +30,7 @@ layout: default
 
 *   [Mave](https://universitates.mave.digital)
 *   Яндекс.Музыка
-*   Apple Podcasts
+*   [Apple Podcasts](https://podcasts.apple.com/us/podcast/лига-айвы-об-университете/id1728738207)
 *   YouTube
 *   Звук
 
