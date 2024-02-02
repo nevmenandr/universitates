@@ -29,10 +29,10 @@ layout: default
 ## Где слушать подкаст
 
 *   [Mave](https://universitates.mave.digital)
-*   Яндекс.Музыка
+*   [Яндекс.Музыка](https://music.yandex.ru/album/29434531)
 *   [Apple Podcasts](https://podcasts.apple.com/us/podcast/лига-айвы-об-университете/id1728738207)
 *   YouTube
-*   Звук
+*   [Звук](https://zvuk.com/podcast/32742237)
 
 ## Тексты про университет
 
