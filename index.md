@@ -42,6 +42,8 @@ layout: default
 
 * * *
 
+![](./logo.png)
+
 
 
 
