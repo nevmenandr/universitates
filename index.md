@@ -44,7 +44,6 @@ layout: default
 *   [Apple Podcasts](https://podcasts.apple.com/us/podcast/лига-айвы-об-университете/id1728738207)
 *   [YouTube](https://www.youtube.com/@universitates-podcast/)
 *   [VK](https://vk.com/video/@universitates)
-*   [Звук](https://zvuk.com/podcast/32742237)
 
 ## Тексты про университет
 
