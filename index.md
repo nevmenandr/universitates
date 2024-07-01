@@ -23,7 +23,7 @@ layout: default
 | 02           | [Даниил Скоринкин](./ep-02.html)| [15.02.2024](https://universitates.mave.digital/ep-3) |
 | 03           | [Елизавета Сенаторова](./ep-03.html)| [18.06.2024](https://universitates.mave.digital/ep-4) |
 | 04           | [Максим Румянцев](./ep-04.html)     | [25.06.2024](https://universitates.mave.digital/ep-5) |
-| 05           | Рустем Вахитов                  | [02.07.2024](https://universitates.mave.digital/ep-6) |
+| 05           | [Рустем Вахитов](./ep-05.html)      | [02.07.2024](https://universitates.mave.digital/ep-6) |
 | 06           | Кирилл Семенов                  | 09.07.2024 |
 | 07           | Андрей Володин                  | 16.07.2024 |
 | 08           | Ольга Маркелова                 | 23.07.2024 |
