@@ -46,6 +46,8 @@ layout: default
 *   [YouTube](https://www.youtube.com/@universitates-podcast/)
 *   [VK](https://vk.com/video/@universitates)
 
+  [![](./AvailableonYouTube-black-3xPNG.png)](https://www.youtube.com/@universitates-podcast/)
+
 ## Тексты про университет
 
 - [Рустем Вахитов Судьбы университета в России, 2014](https://khamovniky.ru/wp-content/uploads/09c3df0da6391b5f1349607afb315d30.pdf)
