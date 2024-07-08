@@ -46,7 +46,7 @@ layout: default
 *   [YouTube](https://www.youtube.com/@universitates-podcast/)
 *   [VK](https://vk.com/video/@universitates)
 
-  [![](./AvailableonYouTube-black-3xPNG.png)](https://www.youtube.com/@universitates-podcast/)
+  [![](./AvailableonYouTube-black-1xPNG.png)](https://www.youtube.com/@universitates-podcast/)
 
 ## Тексты про университет
 
