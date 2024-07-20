@@ -66,7 +66,7 @@ layout: default
 
 ## Облако тегов
 
-{% include archive.html %}
+[Облако университетов](./cloud.html)
 
 * * *
 
