@@ -13,15 +13,18 @@ No plugins required.
 import glob
 import os
 
-post_dir = '_posts/'
-draft_dir = '_drafts/'
+post_dir = '.'
+draft_dir = '.'
 tag_dir = 'tag/'
 
-filenames = glob.glob(post_dir + '*md')
-filenames = filenames + glob.glob(draft_dir + '*md')
+#filenames = glob.glob(post_dir + '*md')
+filenames = os.listdir('.')
+#filenames = filenames + glob.glob(draft_dir + '*md')
 
 total_tags = []
 for filename in filenames:
+    if not filename.startswith('ep-'):
+        continue
     f = open(filename, 'r', encoding='utf8')
     crawl = False
     for line in f:
