@@ -59,6 +59,13 @@
       <section id="main_content">
         {{ content }}
 
+        <span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
+
 <p><img src="aiv30.png"> <a href="https://nevmenandr.github.io/">Об авторе подкаста</a></p>
         
       </section>
