@@ -64,6 +64,10 @@ layout: default
 
 [Цитаты гостей подкаста](./cite.html)
 
+## Облако тегов
+
+{% include archive.html %}
+
 * * *
 
 ![](./logo.png)
