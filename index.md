@@ -28,7 +28,7 @@ layout: default
 | 07           | [Андрей Володин](./ep-07.html)      | [16.07.2024](https://universitates.mave.digital/ep-8) |
 | 08           | [Ольга Маркелова](./ep-08.html)     | [23.07.2024](https://universitates.mave.digital/ep-9) |
 | 09           | [Елена Корчмина](./ep-09.html)      | [30.07.2024](https://universitates.mave.digital/ep-10) |
-| 10           | Рафаэла Божич                   | 06.08.2024 |
+| 10           | [Рафаэла Божич](./ep-10.html)       | [06.08.2024](https://universitates.mave.digital/ep-11) |
 
 > Подкаст об университете. Университет как среда. Университет как пространство. Пространство для встречи ученых и рождения новых идей.
 
