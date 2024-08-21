@@ -29,7 +29,7 @@ layout: default
 | 08           | [Ольга Маркелова](./ep-08.html)     | [23.07.2024](https://universitates.mave.digital/ep-9) |
 | 09           | [Елена Корчмина](./ep-09.html)      | [30.07.2024](https://universitates.mave.digital/ep-10) |
 | 10           | [Рафаэла Божич](./ep-10.html)       | [06.08.2024](https://universitates.mave.digital/ep-11) |
-| 11           | Тимофей Архангельский               | [21.08.2024](https://universitates.mave.digital/ep-12) |
+| 11           | [Тимофей Архангельский](./ep-11.html) | [21.08.2024](https://universitates.mave.digital/ep-12) |
 | 12           | Анастасия Белоусова                 | 27.08.2024 |
 | 13           | Александр Климов                    | 03.09.2024 |
 
