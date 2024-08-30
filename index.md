@@ -35,7 +35,7 @@ layout: default
 | 14           | Ольга Метель                        | 10.09.2024 |
 | 15           | Искандер Саитбатталов               | 17.09.2024 |
 
-<iframe src="https://player.mave.digital?podcast=universitates&episode=1&color=rgb(95,128,245)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
+<iframe src="https://player.mave.digital?podcast=universitates&episode=1&color=rgb(245,215,95)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
 
 > Подкаст об университете. Университет как среда. Университет как пространство. Пространство для встречи ученых и рождения новых идей.
 
