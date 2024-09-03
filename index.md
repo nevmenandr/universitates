@@ -31,7 +31,7 @@ layout: default
 | 10           | [Рафаэла Божич](./ep-10.html)       | [06.08.2024](https://universitates.mave.digital/ep-11) |
 | 11           | [Тимофей Архангельский](./ep-11.html) | [21.08.2024](https://universitates.mave.digital/ep-12) |
 | 12           | [Анастасия Белоусова](./ep-12.html) | [27.08.2024](https://universitates.mave.digital/ep-13) |
-| 13           | Александр Климов                    | 03.09.2024 |
+| 13           | [Александр Климов](./ep-13.html)    | [03.09.2024](https://universitates.mave.digital/ep-13) |
 | 14           | Ольга Метель                        | 10.09.2024 |
 | 15           | Искандер Саитбатталов               | 17.09.2024 |
 
