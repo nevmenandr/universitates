@@ -1,0 +1,10 @@
+https://voyant-tools.org/
+https://blog.datawrapper.de/text-in-data-visualizations/
+https://chartexpo.com/blog/text-visualization-examples
+https://libguides.ufv.ca/DataViz/Text
+sentiment
+geo
+NER
+https://kanoki.org/2019/03/17/text-data-visualization-in-python/
+https://www.mdpi.com/2078-2489/9/6/129
+https://datavizs21.classes.andrewheiss.com/example/13-example/
