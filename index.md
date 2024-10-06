@@ -36,6 +36,8 @@ layout: default
 | 15           | Искандер Саитбатталов               | [17.09.2024](https://universitates.mave.digital/ep-16) |
 | 16           | Александр Мещеряков                 | [24.09.2024](https://universitates.mave.digital/ep-17) |
 | 17           | Андрей Тесля                        | [01.10.2024](https://universitates.mave.digital/ep-18) |
+| 18           | Майя Ермошина                       | [08.10.2024](https://universitates.mave.digital/ep-19) |
+| 19           | Борис Ковалев                       | [15.10.2024](https://universitates.mave.digital/ep-20) |
 
 <iframe src="https://player.mave.digital?podcast=universitates&episode=1&color=rgb(245,215,95)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
 
