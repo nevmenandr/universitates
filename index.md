@@ -38,6 +38,9 @@ layout: default
 | 17           | Андрей Тесля                        | [01.10.2024](https://universitates.mave.digital/ep-18) |
 | 18           | Майя Ермошина                       | [08.10.2024](https://universitates.mave.digital/ep-19) |
 | 19           | Борис Ковалев                       | [15.10.2024](https://universitates.mave.digital/ep-20) |
+| 20           | Игорь Исаев                         | [22.10.2024](https://universitates.mave.digital/ep-21) |
+| 21           | Владимир Плунгян                    | [29.10.2024](https://universitates.mave.digital/ep-22) |
+| 22           | Владимир Файер                      | [05.11.2024](https://universitates.mave.digital/ep-23) |
 
 <iframe src="https://player.mave.digital?podcast=universitates&episode=1&color=rgb(245,215,95)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
 
