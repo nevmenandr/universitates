@@ -41,6 +41,7 @@ layout: default
 | 20           | Игорь Исаев                         | [22.10.2024](https://universitates.mave.digital/ep-21) |
 | 21           | Владимир Плунгян                    | [29.10.2024](https://universitates.mave.digital/ep-22) |
 | 22           | Владимир Файер                      | [05.11.2024](https://universitates.mave.digital/ep-23) |
+| 23           | Полина Колозариди                   | [12.11.2024](https://universitates.mave.digital/ep-24) |
 
 <iframe src="https://player.mave.digital?podcast=universitates&episode=1&color=rgb(245,215,95)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
 
@@ -63,6 +64,9 @@ layout: default
 *   [Apple Podcasts](https://podcasts.apple.com/us/podcast/лига-айвы-об-университете/id1728738207)
 *   [YouTube](https://www.youtube.com/@universitates-podcast/)
 *   [VK](https://vk.com/video/@universitates)
+*   [SoundStream](https://soundstream.media/channel/liga-ayvy)
+*   [Player FM](https://player.fm/series/ligha-aivy-ob-univiersitietie)
+*   [Звук](https://zvuk.com/podcast/32742237)
 
   [![](./AvailableonYouTube-black-1xPNG.png)](https://www.youtube.com/@universitates-podcast/)
 
