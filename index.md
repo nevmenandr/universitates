@@ -67,6 +67,7 @@ layout: default
 *   [SoundStream](https://soundstream.media/playlist/liga-ayvy-ob-universitete)
 *   [Player FM](https://player.fm/series/ligha-aivy-ob-univiersitietie)
 *   [Звук](https://zvuk.com/podcast/32742237)
+*   [podcast.ru](https://podcast.ru/1728738207/e)
 
   [![](./AvailableonYouTube-black-1xPNG.png)](https://www.youtube.com/@universitates-podcast/)
 
