@@ -68,6 +68,7 @@ layout: default
 *   [Player FM](https://player.fm/series/ligha-aivy-ob-univiersitietie)
 *   [Звук](https://zvuk.com/podcast/32742237)
 *   [podcast.ru](https://podcast.ru/1728738207/e)
+*   [Castbox](https://castbox.fm/channel/id6015626)
 
   [![](./AvailableonYouTube-black-1xPNG.png)](https://www.youtube.com/@universitates-podcast/)
 
