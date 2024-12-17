@@ -32,8 +32,8 @@ layout: default
 | 11           | [Тимофей Архангельский](./ep-11.html) | [21.08.2024](https://universitates.mave.digital/ep-12) |
 | 12           | [Анастасия Белоусова](./ep-12.html) | [27.08.2024](https://universitates.mave.digital/ep-13) |
 | 13           | [Александр Климов](./ep-13.html)    | [03.09.2024](https://universitates.mave.digital/ep-14) |
-| 14           | Ольга Метель                        | [10.09.2024](https://universitates.mave.digital/ep-15) |
-| 15           | Искандер Саитбатталов               | [17.09.2024](https://universitates.mave.digital/ep-16) |
+| 14           | [Ольга Метель](./ep-14.html)        | [10.09.2024](https://universitates.mave.digital/ep-15) |
+| 15           | [Искандер Саитбатталов](./ep-15.html) | [17.09.2024](https://universitates.mave.digital/ep-16) |
 | 16           | Александр Мещеряков                 | [24.09.2024](https://universitates.mave.digital/ep-17) |
 | 17           | Андрей Тесля                        | [01.10.2024](https://universitates.mave.digital/ep-18) |
 | 18           | Майя Ермошина                       | [08.10.2024](https://universitates.mave.digital/ep-19) |
