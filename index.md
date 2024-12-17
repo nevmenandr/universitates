@@ -16,34 +16,34 @@ layout: default
 
 ## Выпуски
 
-| Выпуск       | Собеседник, транскрипт          | Дата   |
-|:-------------|:--------------------------------|:-------|
-| Трейлер      | —                               | [01.02.2024](https://universitates.mave.digital/ep-1) |
-| 01           | [Наталия Слюсарь](./ep-01.html) | [08.02.2024](https://universitates.mave.digital/ep-2) |
-| 02           | [Даниил Скоринкин](./ep-02.html)| [15.02.2024](https://universitates.mave.digital/ep-3) |
-| 03           | [Елизавета Сенаторова](./ep-03.html)| [18.06.2024](https://universitates.mave.digital/ep-4) |
-| 04           | [Максим Румянцев](./ep-04.html) | [25.06.2024](https://universitates.mave.digital/ep-5) |
-| 05           | [Рустем Вахитов](./ep-05.html)  | [02.07.2024](https://universitates.mave.digital/ep-6) |
-| 06           | [Кирилл Семенов](./ep-06.html)  | [09.07.2024](https://universitates.mave.digital/ep-7) |
-| 07           | [Андрей Володин](./ep-07.html)  | [16.07.2024](https://universitates.mave.digital/ep-8) |
-| 08           | [Ольга Маркелова](./ep-08.html) | [23.07.2024](https://universitates.mave.digital/ep-9) |
-| 09           | [Елена Корчмина](./ep-09.html)  | [30.07.2024](https://universitates.mave.digital/ep-10) |
-| 10           | [Рафаэла Божич](./ep-10.html)   | [06.08.2024](https://universitates.mave.digital/ep-11) |
-| 11           | [Тимофей Архангельский](./ep-11.html) | [21.08.2024](https://universitates.mave.digital/ep-12) |
-| 12           | [Анастасия Белоусова](./ep-12.html) | [27.08.2024](https://universitates.mave.digital/ep-13) |
-| 13           | [Александр Климов](./ep-13.html)    | [03.09.2024](https://universitates.mave.digital/ep-14) |
-| 14           | [Ольга Метель](./ep-14.html)        | [10.09.2024](https://universitates.mave.digital/ep-15) |
-| 15           | [Искандер Саитбатталов](./ep-15.html) | [17.09.2024](https://universitates.mave.digital/ep-16) |
-| 16           | Александр Мещеряков                 | [24.09.2024](https://universitates.mave.digital/ep-17) |
-| 17           | Андрей Тесля                        | [01.10.2024](https://universitates.mave.digital/ep-18) |
-| 18           | Майя Ермошина                       | [08.10.2024](https://universitates.mave.digital/ep-19) |
-| 19           | Борис Ковалев                       | [15.10.2024](https://universitates.mave.digital/ep-20) |
-| 20           | Игорь Исаев                         | [22.10.2024](https://universitates.mave.digital/ep-21) |
-| 21           | Владимир Плунгян                    | [29.10.2024](https://universitates.mave.digital/ep-22) |
-| 22           | Владимир Файер                      | [05.11.2024](https://universitates.mave.digital/ep-23) |
-| 23           | Полина Колозариди                   | [12.11.2024](https://universitates.mave.digital/ep-24) |
-| 24           | Ринат Бакиров                       | [19.11.2024](https://universitates.mave.digital/ep-25) |
-| 25           | Антонина Пучковская                 | [26.11.2024](https://universitates.mave.digital/ep-26) |
+| Выпуск       | Собеседник, транскрипт          | Университеты | Дата   |
+|:-------------|:--------------------------------|:-------------|:-------|
+| Трейлер      | —                               | —            | [01.02.2024](https://universitates.mave.digital/ep-1) |
+| 01           | [Наталия Слюсарь](./ep-01.html) | Мэриленд, Утрехт, СПбГУ | [08.02.2024](https://universitates.mave.digital/ep-2) |
+| 02           | [Даниил Скоринкин](./ep-02.html)| Потсдам | [15.02.2024](https://universitates.mave.digital/ep-3) |
+| 03           | [Елизавета Сенаторова](./ep-03.html)| НИУ ВШЭ, Иллинойс, Колумбийский | [18.06.2024](https://universitates.mave.digital/ep-4) |
+| 04           | [Максим Румянцев](./ep-04.html) | СФУ | [25.06.2024](https://universitates.mave.digital/ep-5) |
+| 05           | [Рустем Вахитов](./ep-05.html)  | УУНиТ | [02.07.2024](https://universitates.mave.digital/ep-6) |
+| 06           | [Кирилл Семенов](./ep-06.html)  | Карлов | [09.07.2024](https://universitates.mave.digital/ep-7) |
+| 07           | [Андрей Володин](./ep-07.html)  | МГУ, СФУ, ЕУСПб, Помпеу Фабра, Тромсё | [16.07.2024](https://universitates.mave.digital/ep-8) |
+| 08           | [Ольга Маркелова](./ep-08.html) | Исландии, Фарерских островов |[23.07.2024](https://universitates.mave.digital/ep-9) |
+| 09           | [Елена Корчмина](./ep-09.html)  | Болонский, Нью-Йоркский в Абу-Даби, НИУ ВШЭ | [30.07.2024](https://universitates.mave.digital/ep-10) |
+| 10           | [Рафаэла Божич](./ep-10.html)   | Задар | [06.08.2024](https://universitates.mave.digital/ep-11) |
+| 11           | [Тимофей Архангельский](./ep-11.html) | Гамбург | [21.08.2024](https://universitates.mave.digital/ep-12) |
+| 12           | [Анастасия Белоусова](./ep-12.html) | Колумбийский национальный | [27.08.2024](https://universitates.mave.digital/ep-13) |
+| 13           | [Александр Климов](./ep-13.html)    | Хельсинки, МАИ, НИУ ВШЭ | [03.09.2024](https://universitates.mave.digital/ep-14) |
+| 14           | [Ольга Метель](./ep-14.html)        | ОмГУ | [10.09.2024](https://universitates.mave.digital/ep-15) |
+| 15           | [Искандер Саитбатталов](./ep-15.html) | Стамбул, Манас, Тегеран, Шарджа | [17.09.2024](https://universitates.mave.digital/ep-16) |
+| 16           | Александр Мещеряков                 | Токай, Токио | [24.09.2024](https://universitates.mave.digital/ep-17) |
+| 17           | Андрей Тесля                        | БФУ | [01.10.2024](https://universitates.mave.digital/ep-18) |
+| 18           | Майя Ермошина                       | Намибия | [08.10.2024](https://universitates.mave.digital/ep-19) |
+| 19           | Борис Ковалев                       | СПбГУ | [15.10.2024](https://universitates.mave.digital/ep-20) |
+| 20           | Игорь Исаев                         | РГГУ | [22.10.2024](https://universitates.mave.digital/ep-21) |
+| 21           | Владимир Плунгян                    | МГУ | [29.10.2024](https://universitates.mave.digital/ep-22) |
+| 22           | Владимир Файер                      | МГУ | [05.11.2024](https://universitates.mave.digital/ep-23) |
+| 23           | Полина Колозариди                   | ИТМО, МВШСЭН | [12.11.2024](https://universitates.mave.digital/ep-24) |
+| 24           | Ринат Бакиров                       | КФУ | [19.11.2024](https://universitates.mave.digital/ep-25) |
+| 25           | Антонина Пучковская                 | King's College London | [26.11.2024](https://universitates.mave.digital/ep-26) |
 
 <iframe src="https://player.mave.digital?podcast=universitates&episode=1&color=rgb(245,215,95)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
 
