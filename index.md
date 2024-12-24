@@ -36,7 +36,7 @@ layout: default
 | 13           | [Александр Климов](./ep-13.html)    | Хельсинки, МАИ, НИУ ВШЭ | [03.09.2024](https://universitates.mave.digital/ep-14) |
 | 14           | [Ольга Метель](./ep-14.html)        | ОмГУ | [10.09.2024](https://universitates.mave.digital/ep-15) |
 | 15           | [Искандер Саитбатталов](./ep-15.html) | Стамбул, Манас, Тегеран, Шарджа | [17.09.2024](https://universitates.mave.digital/ep-16) |
-| 16           | Александр Мещеряков                 | Токай, Токио | [24.09.2024](https://universitates.mave.digital/ep-17) |
+| 16           | [Александр Мещеряков](./ep-16.html) | Токай, Токио | [24.09.2024](https://universitates.mave.digital/ep-17) |
 | 17           | Андрей Тесля                        | БФУ | [01.10.2024](https://universitates.mave.digital/ep-18) |
 | 18           | Майя Ермошина                       | Намибия | [08.10.2024](https://universitates.mave.digital/ep-19) |
 | 19           | Борис Ковалев                       | СПбГУ | [15.10.2024](https://universitates.mave.digital/ep-20) |
