@@ -55,8 +55,8 @@ layout: default
 | 02     | [Ирина Романова, Лариса Павлова](https://t.me/universitates_podcast/232) | Смоленск  | филология      | [11.03.2025](https://universitates.mave.digital/ep-28)   |
 | 03     | [Анна Красникова](https://t.me/universitates_podcast/242)       | Католический университет в Милане | лингвистика | [18.03.2025](https://universitates.mave.digital/ep-29) |
 | 04     | [Михаил Евтихиев](https://t.me/universitates_podcast/246)       | Институт Вейцмана  | физика         | [25.03.2025](https://universitates.mave.digital/ep-30)   |
-| 05     | [Юрий Макаров](https://t.me/universitates_podcast/248           | Кембридж           | лингвистика    | [01.04.2025](https://universitates.mave.digital/ep-31)   |
-| 06     | [Алексей Вдовин](https://t.me/universitates_podcast/260         | Вятка, Тарту, Кембридж, Берлин | филология | [08.04.2025](https://universitates.mave.digital/ep-32) |
+| 05     | [Юрий Макаров](https://t.me/universitates_podcast/248 )         | Кембридж           | лингвистика    | [01.04.2025](https://universitates.mave.digital/ep-31)   |
+| 06     | [Алексей Вдовин](https://t.me/universitates_podcast/260)        | Вятка, Тарту, Кембридж, Берлин | филология | [08.04.2025](https://universitates.mave.digital/ep-32) |
 
 
 <iframe src="https://player.mave.digital?podcast=universitates&episode=1&color=rgb(245,215,95)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
