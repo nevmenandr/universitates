@@ -58,6 +58,7 @@ layout: default
 | 05     | [Юрий Макаров](https://t.me/universitates_podcast/248 )         | Кембридж           | лингвистика    | [01.04.2025](https://universitates.mave.digital/ep-31)   |
 | 06     | [Алексей Вдовин](https://t.me/universitates_podcast/260)        | Вятка, Тарту, Кембридж, Берлин | филология | [08.04.2025](https://universitates.mave.digital/ep-32) |
 | 07     | [Тимур Комогоров, Вика Бондарева](https://t.me/universitates_podcast/271) | УрФУ     | право, журналистика   | [16.04.2025](https://universitates.mave.digital/ep-33) |
+| 08     | [Георгий Шахгильдян](https://t.me/universitates_podcast/285)    | РХТУ               | химия          | [02.05.2025](https://universitates.mave.digital/ep-34)   |
 
 
 <iframe src="https://player.mave.digital?podcast=universitates&episode=1&color=rgb(245,215,95)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
