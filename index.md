@@ -63,6 +63,7 @@ layout: default
 | 10     | [Катерина Шарова](https://t.me/universitates_podcast/288)       | МФТИ               | математика     | [22.05.2025](https://universitates.mave.digital/ep-36)   |
 | 11     | [Алексей Огнев](https://t.me/universitates_podcast/290)         | Сахалин            | физика         | [29.05.2025](https://universitates.mave.digital/ep-37)   |
 | 12     | [Денис Сахарных](https://t.me/universitates_podcast/291)        | КНИТУ-КХТИ         | история        | [31.05.2025](https://universitates.mave.digital/ep-38)   |
+| 13     | [Рустем Вахитов](https://t.me/universitates_podcast/292)        | Стрилингский, Мискатоникский | философия | [04.06.2025](https://universitates.mave.digital/ep-39) |
 
 
 <iframe src="https://player.mave.digital?podcast=universitates&episode=1&color=rgb(245,215,95)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
