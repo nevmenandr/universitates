@@ -71,6 +71,7 @@ layout: default
 | 18     | Екатерина Сумарокова                                            | Иркутск            | филология      | 30.09.2025                                               |
 | 19     | Иван Алексеев                                                   | Пекин              | филология      | 07.10.2025                                               |
 | 20     | Амиран Урушадзе                                                 | ЮФУ                | история        | 14.10.2025                                               |
+| 21     | Наталья Трубникова                                              | ТГУ                | история        | 21.10.2025                                               |
 
 
 <iframe src="https://player.mave.digital?podcast=universitates&episode=1&color=rgb(245,215,95)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
