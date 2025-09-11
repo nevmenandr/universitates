@@ -65,7 +65,7 @@ layout: default
 | 12     | [Денис Сахарных](https://t.me/universitates_podcast/291)        | КНИТУ-КХТИ         | история        | [31.05.2025](https://universitates.mave.digital/ep-38)   |
 | 13     | [Рустем Вахитов](https://t.me/universitates_podcast/292)        | Стрилингский, Мискатоникский | философия | [04.06.2025](https://universitates.mave.digital/ep-39) |
 | 14     | [Юлия Власова](https://t.me/universitates_podcast/352)          | МГУ                | химия          | [02.09.2025](https://universitates.mave.digital/ep-40)   |
-| 15     | Александра Пахомова                                             | ЕУСПб, Тарту       | филология      | 09.09.2025                                               |
+| 15     | [Александра Пахомова](https://t.me/universitates_podcast/354)   | ЕУСПб, Тарту       | филология      | [09.09.2025](https://universitates.mave.digital/ep-41)   |
 | 16     | Андрей Кожанов                                                  | НИУ ВШЭ            | социология     | 16.09.2025                                               |
 | 17     | Валентин Портных                                                | НГУ                | история        | 23.09.2025                                               |
 | 18     | Екатерина Сумарокова                                            | Иркутск            | филология      | 30.09.2025                                               |
