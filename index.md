@@ -68,7 +68,7 @@ layout: default
 | 15     | [Александра Пахомова](https://t.me/universitates_podcast/354)   | ЕУСПб, Тарту       | филология      | [09.09.2025](https://universitates.mave.digital/ep-41)   |
 | 16     | [Андрей Кожанов](https://t.me/universitates_podcast/356)        | НИУ ВШЭ            | социология     | [16.09.2025](https://universitates.mave.digital/ep-42)   |
 | 17     | [Валентин Портных](https://t.me/universitates_podcast/358)      | НГУ                | история        | [23.09.2025](https://universitates.mave.digital/ep-43)   |
-| 18     | Екатерина Сумарокова                                            | Иркутск            | филология      | 30.09.2025                                               |
+| 18     | [Екатерина Сумарокова](https://t.me/universitates_podcast/360)  | Иркутск            | филология      | [30.09.2025](https://universitates.mave.digital/ep-44)   |
 | 19     | Иван Алексеев                                                   | Пекин              | филология      | 07.10.2025                                               |
 | 20     | Амиран Урушадзе                                                 | ЮФУ                | история        | 14.10.2025                                               |
 | 21     | Наталья Трубникова                                              | ТГУ                | история        | 21.10.2025                                               |
