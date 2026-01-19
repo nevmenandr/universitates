@@ -51,31 +51,31 @@ layout: default
 
 | Выпуск | Собеседник, ссылка на анонс                                     | Университеты       | Специальность  | Дата, ссылка на Mave                                     |
 |:-------|:----------------------------------------------------------------|:-------------------|:---------------|:---------------------------------------------------------|
-| 01     | [Анна Фомина](https://t.me/universitates_podcast/229)           | РТУ МИРЭА, Cколтех | химия          | [04.03.2025](https://universitates.mave.digital/ep-27)   |
-| 02     | [Ирина Романова, Лариса Павлова](https://t.me/universitates_podcast/232) | Смоленск  | филология      | [11.03.2025](https://universitates.mave.digital/ep-28)   |
-| 03     | [Анна Красникова](https://t.me/universitates_podcast/242)       | Католический университет в Милане | лингвистика | [18.03.2025](https://universitates.mave.digital/ep-29) |
-| 04     | [Михаил Евтихиев](https://t.me/universitates_podcast/246)       | Институт Вейцмана  | физика         | [25.03.2025](https://universitates.mave.digital/ep-30)   |
-| 05     | [Юрий Макаров](https://t.me/universitates_podcast/248 )         | Кембридж           | лингвистика    | [01.04.2025](https://universitates.mave.digital/ep-31)   |
-| 06     | [Алексей Вдовин](https://t.me/universitates_podcast/260)        | Вятка, Тарту, Кембридж, Берлин | филология | [08.04.2025](https://universitates.mave.digital/ep-32) |
-| 07     | [Тимур Комогоров, Вика Бондарева](https://t.me/universitates_podcast/271) | УрФУ     | право, журналистика   | [16.04.2025](https://universitates.mave.digital/ep-33) |
-| 08     | [Георгий Шахгильдян](https://t.me/universitates_podcast/285)    | РХТУ               | химия          | [02.05.2025](https://universitates.mave.digital/ep-34)   |
-| 09     | [Ирина Кулакова](https://t.me/universitates_podcast/287)        | МГУ                | история        | [04.05.2025](https://universitates.mave.digital/ep-35)   |
-| 10     | [Катерина Шарова](https://t.me/universitates_podcast/288)       | МФТИ               | математика     | [22.05.2025](https://universitates.mave.digital/ep-36)   |
-| 11     | [Алексей Огнев](https://t.me/universitates_podcast/290)         | Сахалин            | физика         | [29.05.2025](https://universitates.mave.digital/ep-37)   |
-| 12     | [Денис Сахарных](https://t.me/universitates_podcast/291)        | КНИТУ-КХТИ         | история        | [31.05.2025](https://universitates.mave.digital/ep-38)   |
-| 13     | [Рустем Вахитов](https://t.me/universitates_podcast/292)        | Стрилингский, Мискатоникский | философия | [04.06.2025](https://universitates.mave.digital/ep-39) |
-| 14     | [Юлия Власова](https://t.me/universitates_podcast/352)          | МГУ                | химия          | [02.09.2025](https://universitates.mave.digital/ep-40)   |
-| 15     | [Александра Пахомова](https://t.me/universitates_podcast/354)   | ЕУСПб, Тарту       | филология      | [09.09.2025](https://universitates.mave.digital/ep-41)   |
-| 16     | [Андрей Кожанов](https://t.me/universitates_podcast/356)        | НИУ ВШЭ            | социология     | [16.09.2025](https://universitates.mave.digital/ep-42)   |
-| 17     | [Валентин Портных](https://t.me/universitates_podcast/358)      | НГУ                | история        | [23.09.2025](https://universitates.mave.digital/ep-43)   |
-| 18     | [Екатерина Сумарокова](https://t.me/universitates_podcast/360)  | Иркутск            | филология      | [30.09.2025](https://universitates.mave.digital/ep-44)   |
-| 19     | [Иван Алексеев](https://t.me/universitates_podcast/374)         | Пекин              | филология      | [07.10.2025](https://universitates.mave.digital/ep-45)   |
-| 20     | [Амиран Урушадзе](https://t.me/universitates_podcast/385)       | ЮФУ                | история        | [14.10.2025](https://universitates.mave.digital/ep-46)   |
-| 21     | [Наталья Трубникова](https://t.me/universitates_podcast/388)    | ТГУ                | история        | [21.10.2025](https://universitates.mave.digital/ep-47)   |
-| 22     | [Татьяна Швецова, Вероника Шахова](https://t.me/universitates_podcast/391) | САФУ    | филология      | [28.10.2025](https://universitates.mave.digital/ep-48)   |
-| 23     | Роман Кривко                                                    | Вена               | лингвистика    | 04.11.2025                                               |
-| 24     | Иван Бибилов                                                    | УГТУ-УПИ, ЕУСПб    | инженерия      | 11.11.2025                                               |
-| 25     | Анна Михайлова                                                  | Квинсленд          | лингвистика    | 18.11.2025                                               |
+| 01     | [Анна Фомина](https://t.me/universitates_podcast/229)           | РТУ МИРЭА, Cколтех | химия          | [04.03.2025](https://mave.stream/e/w2zLH2vsHa)           |
+| 02     | [Ирина Романова, Лариса Павлова](https://t.me/universitates_podcast/232) | Смоленск  | филология      | [11.03.2025](https://mave.stream/e/OvE2rTq6LV)           |
+| 03     | [Анна Красникова](https://t.me/universitates_podcast/242)       | Католический университет в Милане | лингвистика | [18.03.2025](https://mave.stream/e/US77G42gYV) |
+| 04     | [Михаил Евтихиев](https://t.me/universitates_podcast/246)       | Институт Вейцмана  | физика         | [25.03.2025](https://mave.stream/e/xl7HAciBIk)           |
+| 05     | [Юрий Макаров](https://t.me/universitates_podcast/248 )         | Кембридж           | лингвистика    | [01.04.2025](https://mave.stream/e/IoDNVWFXgw)           |
+| 06     | [Алексей Вдовин](https://t.me/universitates_podcast/260)        | Вятка, Тарту, Кембридж, Берлин | филология | [08.04.2025](https://mave.stream/e/16GZJE4XvIh)   |
+| 07     | [Тимур Комогоров, Вика Бондарева](https://t.me/universitates_podcast/271) | УрФУ     | право, журналистика   | [16.04.2025](https://mave.stream/e/A8DCAthBa3)    |
+| 08     | [Георгий Шахгильдян](https://t.me/universitates_podcast/285)    | РХТУ               | химия          | [02.05.2025](https://mave.stream/e/nn4WmlmmW7)           |
+| 09     | [Ирина Кулакова](https://t.me/universitates_podcast/287)        | МГУ                | история        | [04.05.2025](https://mave.stream/e/Vs6bWmiWtm)           |
+| 10     | [Катерина Шарова](https://t.me/universitates_podcast/288)       | МФТИ               | математика     | [22.05.2025](https://mave.stream/e/1MRxWp80vEb)          |
+| 11     | [Алексей Огнев](https://t.me/universitates_podcast/290)         | Сахалин            | физика         | [29.05.2025](https://mave.stream/e/hXdntZwAUW)           |
+| 12     | [Денис Сахарных](https://t.me/universitates_podcast/291)        | КНИТУ-КХТИ         | история        | [31.05.2025](https://mave.stream/e/mzm67pujUP)           |
+| 13     | [Рустем Вахитов](https://t.me/universitates_podcast/292)        | Стрилингский, Мискатоникский | философия | [04.06.2025](https://mave.stream/e/6xRigRj51I)      |
+| 14     | [Юлия Власова](https://t.me/universitates_podcast/352)          | МГУ                | химия          | [02.09.2025](https://mave.stream/e/69dRAk7x3C)           |
+| 15     | [Александра Пахомова](https://t.me/universitates_podcast/354)   | ЕУСПб, Тарту       | филология      | [09.09.2025](https://mave.stream/e/KMkTg6F1KK)           |
+| 16     | [Андрей Кожанов](https://t.me/universitates_podcast/356)        | НИУ ВШЭ            | социология     | [16.09.2025](https://mave.stream/e/Lv6LijNHF4)           |
+| 17     | [Валентин Портных](https://t.me/universitates_podcast/358)      | НГУ                | история        | [23.09.2025](https://mave.stream/e/L5YISvjqXY)           |
+| 18     | [Екатерина Сумарокова](https://t.me/universitates_podcast/360)  | Иркутск            | филология      | [30.09.2025](https://mave.stream/e/fkIJ11VjEn)           |
+| 19     | [Иван Алексеев](https://t.me/universitates_podcast/374)         | Пекин              | филология      | [07.10.2025](https://mave.stream/e/1Ki3jrLTZLl)          |
+| 20     | [Амиран Урушадзе](https://t.me/universitates_podcast/385)       | ЮФУ                | история        | [14.10.2025](https://mave.stream/e/q8ZtGTVDBf)           |
+| 21     | [Наталья Трубникова](https://t.me/universitates_podcast/388)    | ТГУ                | история        | [21.10.2025](https://mave.stream/e/SMwiXUNUhQ)           |
+| 22     | [Татьяна Швецова, Вероника Шахова](https://t.me/universitates_podcast/391) | САФУ    | филология      | [28.10.2025](https://mave.stream/e/4Pqsi05ssT)           |
+| 23     | [Роман Кривко](https://t.me/universitates_podcast/394)          | Вена               | лингвистика    | [04.11.2025](https://mave.stream/e/108xFeEJ4m1)          |
+| 24     | [Иван Бибилов](https://t.me/universitates_podcast/397)          | УГТУ-УПИ, ЕУСПб    | инженерия      | [11.11.2025](https://mave.stream/e/J3ROEZglTQ)           |
+| 25     | [Анна Михайлова](https://t.me/universitates_podcast/414)        | Квинсленд          | лингвистика    | [20.01.2026](https://mave.stream/e/i6bLsFkZOJ)           |
 
 <iframe src="https://player.mave.digital?podcast=universitates&episode=1&color=rgb(245,215,95)&mute=1&date=1&download=1" style="width: 100%" height="235" scrolling="no" frameborder="no"></iframe>
 
