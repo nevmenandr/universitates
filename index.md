@@ -39,13 +39,13 @@ layout: default
 | 16           | [Александр Мещеряков](./ep-16.html) | Токай, Токио | [24.09.2024](https://universitates.mave.digital/ep-17) |
 | 17           | [Андрей Тесля](./ep-17.html)        | БФУ | [01.10.2024](https://universitates.mave.digital/ep-18) |
 | 18           | [Майя Ермошина](./ep-18.html)       | Намибия | [08.10.2024](https://universitates.mave.digital/ep-19) |
-| 19           | Борис Ковалев                       | СПбГУ | [15.10.2024](https://universitates.mave.digital/ep-20) |
-| 20           | Игорь Исаев                         | РГГУ | [22.10.2024](https://universitates.mave.digital/ep-21) |
-| 21           | Владимир Плунгян                    | МГУ | [29.10.2024](https://universitates.mave.digital/ep-22) |
-| 22           | Владимир Файер                      | МГУ | [05.11.2024](https://universitates.mave.digital/ep-23) |
-| 23           | Полина Колозариди                   | ИТМО, МВШСЭН | [12.11.2024](https://universitates.mave.digital/ep-24) |
-| 24           | Ринат Бакиров                       | КФУ | [19.11.2024](https://universitates.mave.digital/ep-25) |
-| 25           | Антонина Пучковская                 | King's College London | [26.11.2024](https://universitates.mave.digital/ep-26) |
+| 19           | [Борис Ковалев](./ep-19.html)        | СПбГУ | [15.10.2024](https://universitates.mave.digital/ep-20) |
+| 20           | [Игорь Исаев](./ep-20.html)          | РГГУ | [22.10.2024](https://universitates.mave.digital/ep-21) |
+| 21           | [Владимир Плунгян](./ep-21.html)     | МГУ | [29.10.2024](https://universitates.mave.digital/ep-22) |
+| 22           | [Владимир Файер](./ep-22.html)       | МГУ | [05.11.2024](https://universitates.mave.digital/ep-23) |
+| 23           | [Полина Колозариди](./ep-23.html)    | ИТМО, МВШСЭН | [12.11.2024](https://universitates.mave.digital/ep-24) |
+| 24           | [Ринат Бакиров](./ep-24.html)        | КФУ | [19.11.2024](https://universitates.mave.digital/ep-25) |
+| 25           | [Антонина Пучковская](./ep-25.html)  | King's College London | [26.11.2024](https://universitates.mave.digital/ep-26) |
 
 ### Второй сезон
 
